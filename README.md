@@ -38,6 +38,11 @@ Lastly using  the JDBC connection we created a live connection between Amazon R
   
 **Results ** 
 
-After checking and comaoring different data sets it is very diffic
+After checking and comaoring different data sets it is very difficult to find the conclusion about trust wortiness of the vine data as there is huge gap between the number of votes case through vine vs non vine 
+![vine_review](https://user-images.githubusercontent.com/55926650/73811187-adcbd900-478d-11ea-8acc-e2b8988d0f11.PNG)
+![vine_review_1](https://user-images.githubusercontent.com/55926650/73811188-ae646f80-478d-11ea-9629-da50085bbc8e.PNG)
+<BR> Checked Helpful reviews as well which doesnot  fgive clear picture about vine vs  non vine reviews.But the ration betwwen helpful reviews and non helful reviews shoes that people rating through vine program are providing better revies then other ways .
+
+
 
 
